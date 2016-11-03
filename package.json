@@ -1,0 +1,19 @@
+{
+  "name": "mvpree",
+  "version": "1.0.0",
+  "description": "Connect ideas with talent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yujinjcho/MVPree.git"
+  },
+  "author": "Yujin Cho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yujinjcho/MVPree/issues"
+  },
+  "homepage": "https://github.com/yujinjcho/MVPree#readme"
+}
